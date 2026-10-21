@@ -14,7 +14,7 @@ An executive-level, professional engineering portfolio website designed for **Vi
   2. *Smart Home Automation & Climate Control (2025)* — LM35 temperature regulation for smart AC & IR proximity security.
 * **Interactive Hardware Logic Test Bench**: Allows recruiters to interactively slide ambient lux and temperature levels to observe simulated real-time circuit switching and UART serial telemetry feeds.
 * **Recruiter-Ready CV Export**: Clicking **"Download CV"** activates custom print formatting (`@media print`) that formats the portfolio as a standard, print-ready 1-2 page corporate resume.
-* **Direct Communication Channels**: 1-click clipboard copy for email (`shivuvikas007@gmail.com`) and phone (`+91 9886968363`), plus an inquiry dispatcher.
+* **Direct Communication Channels**: 1-click clipboard copy for email (`shivuvikas007@gmail.com`), plus an inquiry dispatcher.
 
 ---
 
