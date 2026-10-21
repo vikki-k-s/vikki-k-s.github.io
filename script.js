@@ -541,7 +541,7 @@ void loop() {
             showToast('Preparing inquiry transmission.');
 
             setTimeout(() => {
-                const mailtoLink = `mailto:shivuvikas007@gmail.com?subject=${encodeURIComponent('[Engineering Inquiry] ' + subject)}&body=${encodeURIComponent('From: ' + name + ' (' + email + ')\n\n' + message)}`;
+                const mailtoLink = `mailto:contact@vikas.is-a.dev?subject=${encodeURIComponent('[Engineering Inquiry] ' + subject)}&body=${encodeURIComponent('From: ' + name + ' (' + email + ')\n\n' + message)}`;
                 window.location.href = mailtoLink;
             }, 800);
         });
